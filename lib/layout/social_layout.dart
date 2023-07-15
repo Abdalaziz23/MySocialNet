@@ -70,12 +70,12 @@ class SocialLayout extends StatelessWidget {
                 ),
                 label: 'Post',
               ),
-              BottomNavigationBarItem(
-                icon: Icon(
-                  IconBroken.Location,
-                ),
-                label: 'Users',
-              ),
+              // BottomNavigationBarItem(
+              //   icon: Icon(
+              //     IconBroken.Location,
+              //   ),
+              //   label: 'Users',
+              // ),
               BottomNavigationBarItem(
                 icon: Icon(
                   IconBroken.Setting,
